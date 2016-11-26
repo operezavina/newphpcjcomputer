@@ -10,7 +10,7 @@ include 'header.php';
             </ol>
             <div class="carousel-inner">
 
-                <div class="item active" style="background-image: url(images/slider/intro-bg.jpg)">
+                <div class="item active" style="background-image: url(images/slider/intro_bg.png)">
                     <div class="container">
                         <div class="row slide-margin">
                             <div class="col-sm-6">
@@ -344,7 +344,7 @@ include 'header.php';
                 <div class="col-sm-6 wow fadeInDown">
                     <div class="skill">
                         <h2>Our Skills</h2>
-                        <p> The team memebers of our team has more than 10 years of experience in IT.</p>
+                        <p> Our team memebers have more than 10 years of experience.</p>
 
                         <div class="progress-wrap">
                             <h3>Graphic Design</h3>
@@ -485,6 +485,31 @@ include 'header.php';
                               </div>
                             </div>
                           </div>
+                          <div class="panel panel-default">
+                                <div class="panel-heading">
+                                  <h3 class="panel-title">
+                                    <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion1" href="#collapseFive1">
+                                      Web develpment
+                                      <i class="fa fa-angle-right pull-right"></i>
+                                    </a>
+                                  </h3>
+                                </div>
+                                <div id="collapseFive1" class="panel-collapse collapse">
+                                        <div class="pull-left">
+                                            <p>Custom applications</p> 
+                                            <img class="img-responsive" src="images/services/app1.png">
+                                            <p>Enterprise website</p>
+                                            <img class="img-responsive" src="images/services/enterprisewebsite.png">
+                                            <p>Personal website</p> 
+                                            <img class="img-responsive" src="images/services/personalwebsite.png">
+                                        </div>
+                                      <div class="panel-body">
+                                          <p>The most popular concepts of websites. <br> We can develop any different for your needs.</p>
+                                            
+                                      </div>
+                                </div>
+                          </div>
+                          
                         </div><!--/#accordion1-->
                     </div>
                 </div>

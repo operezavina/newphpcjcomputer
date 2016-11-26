@@ -21,7 +21,7 @@ include 'header.php';
                                 <address>
                                     <h5>Head Office</h5>
                                     <p>2651 Sunset Blvd <br>
-                                    Rocklin CA, MP 95677</p>
+                                    Rocklin CA, 95677</p>
                                     <p>Phone:916-276-8099 <br>
                                     Email: info@cjcomputersolutions.com</p>
                                 </address>
