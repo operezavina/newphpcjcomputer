@@ -489,7 +489,7 @@ include 'header.php';
                                 <div class="panel-heading">
                                   <h3 class="panel-title">
                                     <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion1" href="#collapseFive1">
-                                      Web develpment
+                                      Web development
                                       <i class="fa fa-angle-right pull-right"></i>
                                     </a>
                                   </h3>
