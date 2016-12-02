@@ -54,7 +54,16 @@ jQuery(function($) {'use strict',
 		});
 	});
 
-	
+	var form = $('.contact-form');
+    form.submit(function () {
+        $this = $(this);
+        $.post($(this).attr('action'), $(this).serialize(), function(data) {
+                    $this.prev().text(data.message).fadeIn().delay(3000).fadeOut();
+        },'json');
+        $this.find("input,textarea").val('');
+        return false;
+    });
+
 	//goto top
 	$('.gototop').click(function(event) {
 		event.preventDefault();
