@@ -130,7 +130,7 @@
 
                 <div class="col-sm-6 wow fadeInDown">
                     <div class="accordion">
-                        <h2>More details about our services</h2>
+                        <h2>Details about our services</h2>
                         <div class="panel-group" id="accordion1">
                           <div class="panel panel-default">
                             <div class="panel-heading active">
